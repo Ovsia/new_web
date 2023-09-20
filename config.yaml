@@ -31,7 +31,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: Research assistant<br>in M Lab.
+  <p>description: <br>Research assistant<br>in M Lab.</p>
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
