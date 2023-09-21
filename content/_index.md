@@ -14,6 +14,7 @@ My interest lies in
 - **Weakly Supervised Learning**
 
 Feel free to contact me via littlehorse@shu.edu.cn or qingyuanma.work@gmail.com
+
 **note: this page is under construction, you can come back later.**
 
 
