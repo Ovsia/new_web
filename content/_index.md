@@ -14,7 +14,7 @@ My interest lies in
 - **Weakly Supervised Learning**
 
 Feel free to contact me via littlehorse@shu.edu.cn or qingyuanma.work@gmail.com
-
+**note: this page is under construction, you can come back later.**
 
 
 # Research Experience:
@@ -26,5 +26,3 @@ Feel free to contact me via littlehorse@shu.edu.cn or qingyuanma.work@gmail.com
 **Model Pruning**  (Jan 2023 - Sep 2023)
 
 **Adversarial Attack**  (Oct 2022 - Dec 2022)
-
-note: this page is under construction, you can come back later.
