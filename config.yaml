@@ -27,8 +27,7 @@ menu:
     - name: "Tags"
       url: "/tags/"
       weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
+
 
 params:
   description: Research assistant in M Lab.
