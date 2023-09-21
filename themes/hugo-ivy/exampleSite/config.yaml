@@ -27,8 +27,6 @@ menu:
     - name: "Tags"
       url: "/tags/"
       weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
 
 params:
   description: "A Hugo theme ported from the static site generator Ivy."
