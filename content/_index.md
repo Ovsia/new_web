@@ -2,11 +2,11 @@
 title: Home
 ---
 
-[<img src="https://user-images.githubusercontent.com/116294184/269138412-cae3562a-1e51-42c0-a748-33a0ea010267.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/Ovsia)
+[<img src="https://private-user-images.githubusercontent.com/116294184/281272276-17da3dbe-ef11-4c6e-a4cb-542106ad24ae.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/Ovsia)
 
 Hi*👋* this is [Qingyuan Ma](https://github.com/Ovsia) from Shanghai University, School of Computer Engineering and Science.
 
-My interest lies in 
+My interests: 
 
 - **Contrastive Learning**
 -  **Vision-and-Language Understanding**
@@ -15,7 +15,6 @@ My interest lies in
 
 Feel free to contact me via littlehorse@shu.edu.cn or qingyuanma.work@gmail.com
 
-**note: this page is under construction, you can come back later.**
 
 
 # Research Experience:
