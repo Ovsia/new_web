@@ -1,7 +1,7 @@
 ---
-title: About Hugo Ivy
+title: About
 author: Qingyuan Ma
-date: '2017-08-06'
+date: '2023-11-06'
 ---
 
 Hi, I am Qingyuan Ma. I am looking for potential summer research opportunities for 2024, hopefully continuing research beyond the summer period.
